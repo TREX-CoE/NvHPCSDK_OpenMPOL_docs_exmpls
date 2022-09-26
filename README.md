@@ -1,4 +1,4 @@
-# Nvidia HPC SDK + OpenMP Offload Docs & Examples
+# NVidia HPC SDK + OpenMP Offload Docs & Examples
 Collection of tutorials and examples on OpenMP offloading of data and computations on Nvidia GPUs using the Nvidia HPC SDK
 
 Here you will find a set of minimal working examples (MWEs) that were useful to me whilst figuring out how to use OpenMP offloading of data and computations to an Nvidia GPU. For now it only containes three MWEs:
@@ -7,7 +7,7 @@ Here you will find a set of minimal working examples (MWEs) that were useful to 
 - Matrix inversion using cuSOLVER
 - Matrix determinant using cuSOLVER
 
-All the MWEs are independent and have their own build script. Only the NVidia HPC SDK is required. You can download it here:
+All the MWEs are independent and have their own build script. Only the NVidia HPC SDK is required and initialised using the provided Environment Modules scripts in '$NVHPC/modulefiles/nvhpc'. You can download it here:
 https://developer.nvidia.com/nvidia-hpc-sdk-downloads
 
 Other useful examples on how to initialize and use CUDA math libraries can be found here:
