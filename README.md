@@ -22,4 +22,5 @@ To get started with OpenMP ofloading I was relying heavily on talks and tutorial
   - Day 1 slides: https://www.olcf.ornl.gov/wp-content/uploads/2021/08/ITOpenMP_Day1.pdf
   - Day2 slides: https://www.olcf.ornl.gov/wp-content/uploads/2021/08/ITOpenMPO_Day2.pdf
 
-I encourage everyone who is interested in developing code for GPUs to contribute useful documentation, tutorials, best practices and MWEs. In case of MWEs, please keep them is 'minimal' as possible, only the essentials, no unnecessary boilerplate code.
+I encourage everyone who is interested in developing code for GPUs to contribute useful documentation, tutorials, best practices and MWEs.
+In case of MWEs, please keep them as 'minimal' as possible! Only the essentials, no unnecessary boilerplate code.
