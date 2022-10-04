@@ -21,6 +21,15 @@ To get started with OpenMP ofloading I was relying heavily on talks and tutorial
 - Introduction to OpenMP Device Offload, Oak Ridge/NERSC , Sept 22-23, 2021: https://www.nersc.gov/users/training/events/openmp-device-offload-sept-2021/|
   - Day 1 slides: https://www.olcf.ornl.gov/wp-content/uploads/2021/08/ITOpenMP_Day1.pdf
   - Day2 slides: https://www.olcf.ornl.gov/wp-content/uploads/2021/08/ITOpenMPO_Day2.pdf
+  
+Blue Waters Webinars:
+---------------------
+Introduction to NVIDIA Nsight Systems
+    https://www.youtube.com/watch?v=WA8C48FJi3c
+Introduction to NVIDIA Nsight Compute
+    https://www.youtube.com/watch?v=nYSdsJE2zMs&t=1296s
+
+
 
 I encourage everyone who is interested in developing code for GPUs to contribute useful documentation, tutorials, best practices and MWEs.
 In case of MWEs, please keep them as 'minimal' as possible! Only the essentials, no unnecessary boilerplate code.
