@@ -25,8 +25,11 @@ To get started with OpenMP ofloading I was relying heavily on talks and tutorial
 Blue Waters Webinars:
 ---------------------
 Introduction to NVIDIA Nsight Systems
+
 https://www.youtube.com/watch?v=WA8C48FJi3c
+
 Introduction to NVIDIA Nsight Compute
+
 https://www.youtube.com/watch?v=nYSdsJE2zMs&t=1296s
 
 
